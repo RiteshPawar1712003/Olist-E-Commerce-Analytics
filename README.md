@@ -95,10 +95,11 @@ This project analyzes Brazilian e-commerce data to understand sales performance,
 
 **Business Insight:** Delivery-time comparisons require careful interpretation because canceled orders may not represent completed deliveries.
 
-### 10. What percentage of orders are successfully delivered?
-**Answer:** Order status counts were analyzed to assess delivery completion. The exact percentage has not yet been recorded in the project findings.
+10. What percentage of orders were delivered?
 
-**Business Insight:** Monitoring the delivered-order rate helps evaluate order fulfilment performance.
+Answer: Out of 99,441 orders, 96,478 were delivered, giving a delivered-order rate of approximately 97.02%.
+
+Business Insight: The delivered-order rate provides a useful measure of order fulfilment performance. The remaining orders should be reviewed by status to understand cancellations, delays, and orders that were not completed.
 
 
 ## Business Insights
