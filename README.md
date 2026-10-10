@@ -126,11 +126,11 @@ These insights can support further investigation into customer satisfaction, reg
 
 ### Page 1 — Sales & Order Analysis
 
-![Olist Dashboard Page 1](screenshots/olist_dashboard_page1.png)
+![Olist Dashboard Page 1](Screenshots/olist_dashboard_page1.png)
 
 ### Page 2 — Delivery & Payment Analysis
 
-![Olist Dashboard Page 2](screenshots/olist_dashboard_page2.png)
+![Olist Dashboard Page 2](Screenshots/olist_dashboard_page2.png)
 
 ## Project Structure
 - `data/` — Dataset files
