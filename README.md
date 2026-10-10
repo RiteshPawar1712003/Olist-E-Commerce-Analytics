@@ -140,3 +140,15 @@ These insights can support further investigation into customer satisfaction, reg
 
 ## Conclusion
 This project demonstrates practical skills in data cleaning, exploratory data analysis, SQL querying, KPI analysis, and interactive dashboard development to support data-driven business decisions.
+
+
+
+## Dataset
+
+This project uses the Brazilian E-Commerce Public Dataset by Olist.
+
+**Source:** [Kaggle — Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+Download the dataset from Kaggle and place the CSV files in the project's `data/` directory before running the Python notebooks or importing the data into PostgreSQL.
+
+The original dataset files are not included in this repository.
